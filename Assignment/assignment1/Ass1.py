@@ -1,0 +1,2 @@
+treasure = input("Where should we head next for our treasure collection? ")
+# INSERT YOUR CODE BELOW
